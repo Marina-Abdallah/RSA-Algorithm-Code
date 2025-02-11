@@ -129,5 +129,5 @@ Decrypted Message : Hello
 ## Conclusion
 This project demonstrates the RSA encryption and decryption process using Java. It showcases the key generation, encryption, and decryption steps in the RSA algorithm. You can experiment with different prime ranges and messages to explore the RSA cryptosystem further.
 
-Author
+## Author
 Marina Abdallah– https://github.com/Marina-Abdallah
